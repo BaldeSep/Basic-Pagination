@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/react-pagination-app/static/js/main.4a6dc7fe.chunk.js",
-    "main.js.map": "/react-pagination-app/static/js/main.4a6dc7fe.chunk.js.map",
-    "runtime-main.js": "/react-pagination-app/static/js/runtime-main.ef8cffc7.js",
-    "runtime-main.js.map": "/react-pagination-app/static/js/runtime-main.ef8cffc7.js.map",
-    "static/js/2.d565602c.chunk.js": "/react-pagination-app/static/js/2.d565602c.chunk.js",
-    "static/js/2.d565602c.chunk.js.map": "/react-pagination-app/static/js/2.d565602c.chunk.js.map",
-    "index.html": "/react-pagination-app/index.html",
-    "precache-manifest.de7e55220f683625aebfe9af06dc766a.js": "/react-pagination-app/precache-manifest.de7e55220f683625aebfe9af06dc766a.js",
-    "service-worker.js": "/react-pagination-app/service-worker.js"
+    "main.js": "/Basic-Pagination/static/js/main.4a6dc7fe.chunk.js",
+    "main.js.map": "/Basic-Pagination/static/js/main.4a6dc7fe.chunk.js.map",
+    "runtime-main.js": "/Basic-Pagination/static/js/runtime-main.b73a84e6.js",
+    "runtime-main.js.map": "/Basic-Pagination/static/js/runtime-main.b73a84e6.js.map",
+    "static/js/2.d565602c.chunk.js": "/Basic-Pagination/static/js/2.d565602c.chunk.js",
+    "static/js/2.d565602c.chunk.js.map": "/Basic-Pagination/static/js/2.d565602c.chunk.js.map",
+    "index.html": "/Basic-Pagination/index.html",
+    "precache-manifest.0084b3fe834a02b7d594c2f0f9ef274c.js": "/Basic-Pagination/precache-manifest.0084b3fe834a02b7d594c2f0f9ef274c.js",
+    "service-worker.js": "/Basic-Pagination/service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.ef8cffc7.js",
+    "static/js/runtime-main.b73a84e6.js",
     "static/js/2.d565602c.chunk.js",
     "static/js/main.4a6dc7fe.chunk.js"
   ]
